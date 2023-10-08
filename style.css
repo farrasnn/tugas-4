@@ -41,8 +41,8 @@ img.brand-identity{
     text-align: center;
 }
 .section-2{
-    height: 90vh;
-    padding-top: 30px;
+    width: 100%;
+    height: 80vh;
     background-color: #282828;
     color: rgb(255, 255, 255);
     font-size: 14pt;
@@ -69,7 +69,7 @@ width: 100%;
 .section-3{
     background-color: black;
     color: white;
-    height: 160vh;
+    height: 140vh;
     width: 100%;
     padding-bottom: 40px;
 }
@@ -140,7 +140,7 @@ width: 100%;
         background-color: red;
       }
 .section-5{
-    background-color: black;
+    background-color: #282828;
     color: aliceblue;
     width: 100%;
     height: 30vh;
